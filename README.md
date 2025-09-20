@@ -1,4 +1,3 @@
-
 # Kokuban 内核 for 三星 Galaxy S24 系列
 
 <p align="center">
